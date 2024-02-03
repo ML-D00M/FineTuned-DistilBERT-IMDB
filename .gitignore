@@ -1,1 +1,3 @@
-myenv/
+venv/
+fine_tuned_model/
+.env

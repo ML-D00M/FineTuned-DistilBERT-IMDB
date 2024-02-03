@@ -1,0 +1,6 @@
+torch
+transformers
+sagemaker
+boto3
+python-dotenv
+datasets
